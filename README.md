@@ -21,7 +21,7 @@ pip install pandas numpy matplotlib seaborn
 
 # 下载项目
 git clone <repository-url>
-cd 银行账单分析
+cd ICBC-analysis-main
 ```
 
 ### 2. 数据准备
